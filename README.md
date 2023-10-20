@@ -12,7 +12,7 @@
   
 - 👨‍💼 I am able to do projects with **.NET Core MVC, WEB API, Azure Functions**.
 
-- 👨‍💻 My projects are available at **(https://github.com/Ashish8532?tab=repositories)**.
+- 👨‍💻 My projects are available at **[GitHub](https://github.com/Ashish8532?tab=repositories)**.
 
 - 📫 How to reach me **ashishraj916263@gmail.com**.
 
